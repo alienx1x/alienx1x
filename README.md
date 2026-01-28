@@ -21,7 +21,7 @@ Linux systems enthusiast with a mechanical engineering background.
 I build, run, and document real Linux services on Raspberry Pi and homelab systems.
 
 ## What I work on
-- Linux system administration (Raspberry Pi OS Lite / CentOS / RHEL 9)
+- Linux system administration (Debian / CentOS / RHEL 9)
 - Raspberry Pi infrastructure projects
 - Networking, remote access, and secure services
 - Audio streaming systems running 24/7
@@ -45,7 +45,7 @@ I build, run, and document real Linux services on Raspberry Pi and homelab syste
 **Skills demonstrated:** security fundamentals, access control
 
 ## Skills
-- Operating Systems: Linux (Raspberry Pi OS Lite)
+- Operating Systems: Linux (Debian)
 - Services: SSH, systemd, Icecast
 - Networking: TCP/IP, VPN (Tailscale), firewalls
 - Hardware: Raspberry Pi
